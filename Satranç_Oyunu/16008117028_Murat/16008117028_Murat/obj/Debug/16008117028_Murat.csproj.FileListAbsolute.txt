@@ -1,0 +1,35 @@
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Satranç_Oyunu\16008117028_Murat\16008117028_Murat\bin\Debug\16008117028_Murat.exe.config
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Satranç_Oyunu\16008117028_Murat\16008117028_Murat\bin\Debug\16008117028_Murat.exe
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Satranç_Oyunu\16008117028_Murat\16008117028_Murat\bin\Debug\16008117028_Murat.pdb
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Satranç_Oyunu\16008117028_Murat\16008117028_Murat\obj\Debug\16008117028_Murat.csprojResolveAssemblyReference.cache
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Satranç_Oyunu\16008117028_Murat\16008117028_Murat\obj\Debug\_16008117028_Murat.Properties.Resources.resources
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Satranç_Oyunu\16008117028_Murat\16008117028_Murat\obj\Debug\16008117028_Murat.csproj.GenerateResource.Cache
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Satranç_Oyunu\16008117028_Murat\16008117028_Murat\obj\Debug\16008117028_Murat.exe
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Satranç_Oyunu\16008117028_Murat\16008117028_Murat\obj\Debug\16008117028_Murat.pdb
+C:\Users\MURAT\Documents\Visual Studio 2015\Projects\16008117028_Murat\16008117028_Murat\bin\Debug\16008117028_Murat.exe.config
+C:\Users\MURAT\Documents\Visual Studio 2015\Projects\16008117028_Murat\16008117028_Murat\obj\Debug\16008117028_Murat.exe
+C:\Users\MURAT\Documents\Visual Studio 2015\Projects\16008117028_Murat\16008117028_Murat\obj\Debug\16008117028_Murat.pdb
+C:\Users\MURAT\Documents\Visual Studio 2015\Projects\16008117028_Murat\16008117028_Murat\bin\Debug\16008117028_Murat.exe
+C:\Users\MURAT\Documents\Visual Studio 2015\Projects\16008117028_Murat\16008117028_Murat\bin\Debug\16008117028_Murat.pdb
+C:\Users\MURAT\Documents\Visual Studio 2015\Projects\16008117028_Murat\16008117028_Murat\obj\Debug\_16008117028_Murat.Properties.Resources.resources
+C:\Users\MURAT\Documents\Visual Studio 2015\Projects\16008117028_Murat\16008117028_Murat\obj\Debug\16008117028_Murat.csproj.GenerateResource.Cache
+C:\Users\MURAT\Documents\Visual Studio 2015\Projects\16008117028_Murat\16008117028_Murat\obj\Debug\_16008117028_Murat.Form1.resources
+C:\Users\MURAT\Documents\Visual Studio 2015\Projects\16008117028_Murat\16008117028_Murat\obj\Debug\16008117028_Murat.csprojResolveAssemblyReference.cache
+E:\Projelerim\C#-PROJE\16008117028_Murat\16008117028_Murat\bin\Debug\16008117028_Murat.exe.config
+E:\Projelerim\C#-PROJE\16008117028_Murat\16008117028_Murat\bin\Debug\16008117028_Murat.exe
+E:\Projelerim\C#-PROJE\16008117028_Murat\16008117028_Murat\bin\Debug\16008117028_Murat.pdb
+E:\Projelerim\C#-PROJE\16008117028_Murat\16008117028_Murat\obj\Debug\16008117028_Murat.csprojResolveAssemblyReference.cache
+E:\Projelerim\C#-PROJE\16008117028_Murat\16008117028_Murat\obj\Debug\_16008117028_Murat.Form1.resources
+E:\Projelerim\C#-PROJE\16008117028_Murat\16008117028_Murat\obj\Debug\_16008117028_Murat.Properties.Resources.resources
+E:\Projelerim\C#-PROJE\16008117028_Murat\16008117028_Murat\obj\Debug\16008117028_Murat.csproj.GenerateResource.Cache
+E:\Projelerim\C#-PROJE\16008117028_Murat\16008117028_Murat\obj\Debug\16008117028_Murat.exe
+E:\Projelerim\C#-PROJE\16008117028_Murat\16008117028_Murat\obj\Debug\16008117028_Murat.pdb
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Yapay_Zeka _Proje\Satranç_Oyunu\16008117028_Murat\16008117028_Murat\bin\Debug\16008117028_Murat.exe.config
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Yapay_Zeka _Proje\Satranç_Oyunu\16008117028_Murat\16008117028_Murat\bin\Debug\16008117028_Murat.exe
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Yapay_Zeka _Proje\Satranç_Oyunu\16008117028_Murat\16008117028_Murat\bin\Debug\16008117028_Murat.pdb
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Yapay_Zeka _Proje\Satranç_Oyunu\16008117028_Murat\16008117028_Murat\obj\Debug\16008117028_Murat.csprojResolveAssemblyReference.cache
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Yapay_Zeka _Proje\Satranç_Oyunu\16008117028_Murat\16008117028_Murat\obj\Debug\_16008117028_Murat.Form1.resources
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Yapay_Zeka _Proje\Satranç_Oyunu\16008117028_Murat\16008117028_Murat\obj\Debug\_16008117028_Murat.Properties.Resources.resources
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Yapay_Zeka _Proje\Satranç_Oyunu\16008117028_Murat\16008117028_Murat\obj\Debug\16008117028_Murat.csproj.GenerateResource.Cache
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Yapay_Zeka _Proje\Satranç_Oyunu\16008117028_Murat\16008117028_Murat\obj\Debug\16008117028_Murat.exe
+C:\Users\MURAT\Desktop\16008117028_Murat_Can_Çelebi_Yapay_Zeka _Proje\Satranç_Oyunu\16008117028_Murat\16008117028_Murat\obj\Debug\16008117028_Murat.pdb
